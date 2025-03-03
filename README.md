@@ -1,2 +1,28 @@
-# air-quality-analysis
-This repository contains an exploratory data analysis (EDA) of the Air Quality dataset from the UCI Machine Learning Repository. The dataset includes sensor-based measurements of air pollutants such as CO, NO₂, NOₓ, and Benzene, along with variables like temperature (T) and humidity (RH, AH).
+# **Air Quality Data Analysis**  
+
+Repo berisi analisis eksplorasi data (EDA) pada dataset **Air Quality** dari UCI Machine Learning Repository.  
+
+## **Setup & Cara Menjalankan**  
+
+### 1. **Buat Virtual Environment**  
+```bash
+python -m venv venv
+```
+
+### 2. **Aktifkan Virtual Environment**  
+- **Windows:**  
+  ```bash
+  venv\Scripts\activate
+  ```
+- **Mac/Linux:**  
+  ```bash
+  source venv/bin/activate
+  ```
+
+### 3. **Install Dependencies**  
+```bash
+pip install pandas numpy matplotlib seaborn ucimlrepo scikit-learn
+```
+
+### 4. **Jalankan Notebook**  
+Buka Jupyter Notebook atau VS Code, lalu jalankan **Eksplorasi dan Analisa Data - Air Quality Dataset.ipynb** untuk melihat analisisnya. 🚀
