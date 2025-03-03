@@ -25,4 +25,4 @@ pip install pandas numpy matplotlib seaborn ucimlrepo scikit-learn
 ```
 
 ### 4. **Jalankan Notebook**  
-Buka Jupyter Notebook atau VS Code, lalu jalankan **Eksplorasi dan Analisa Data - Air Quality Dataset.ipynb** untuk melihat analisisnya. 🚀
+Buka Jupyter Notebook atau VS Code, lalu jalankan **Eksplorasi dan Analisa Data - Air Quality Dataset.ipynb** untuk melihat analisisnya
